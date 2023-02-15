@@ -20,3 +20,7 @@ $  git checkout branchname
 $ git diff 
 
 --- shows the deffirence between branches 
+how to use command 
+------------------- $ git diff (name of branch to compir with)
+
+$ 
