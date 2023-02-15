@@ -1,0 +1,22 @@
+#  branch  concept 
+
+
+we made branch to not make change on the main repository 
+
+
+# branch commands 
+
+$ git branch 
+--- shows the list of branches you created 
+
+$ git checkout -b (branchname)
+
+--- create a new brach with (branchname) / no ()
+
+$  git checkout branchname
+
+--- switch between branches 
+
+$ git diff 
+
+--- shows the deffirence between branches 
