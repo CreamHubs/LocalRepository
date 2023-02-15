@@ -1,0 +1,20 @@
+# Local Git Workflow 
+
+
+# write code 
+
+# stage changes 
+<!-- git add (file name or . for all file at once)-->
+
+
+# commit changes 
+<!-- git commit -m "title" -m "description " -->
+
+
+# push changes to GitHub
+<!-- git push origin master -->
+
+# make pull request
+ i have no idea 
+ ?????
+
